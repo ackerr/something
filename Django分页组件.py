@@ -44,7 +44,7 @@ class Page(object):
                     start = self.page - 2
                     end = self.page + 2
         #  动态生成页码标签
-        pageer = []
+        pager = []
 
         for i in range(start, end + 1):
             if i == self.page:
