@@ -31,3 +31,9 @@ d, drop = remove commit (直接将修改弹出，撤销commit)
 - git stash list (查看stash list)
 - git stash pop XXX (清除某个stash,恢复修改)
 - git stash drop XXX (删除某个stash)
+
+### 删除分支
+
+- git br -a 查看远程与本地的所有分支
+- git br -D [分支] 删除本地分支
+- git push origin --delete [远程分支]  删除远程分支 
