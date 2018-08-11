@@ -5,3 +5,7 @@
 - set tabstop=4 
 - set expandtab
 - set autoindent  自动缩进
+
+
+#### chrome vim 插件
+- vimium (具体可shift+? 查看快捷键)
