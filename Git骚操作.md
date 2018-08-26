@@ -31,6 +31,7 @@ d, drop = remove commit (直接将修改弹出，撤销commit)
 - git stash list (查看stash list)
 - git stash pop XXX (清除某个stash,恢复修改)
 - git stash drop XXX (删除某个stash)
+- git stash show xxx (查看某个stash的内容)
 
 ### 删除分支
 
