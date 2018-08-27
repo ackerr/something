@@ -1,4 +1,4 @@
-## detail_route 与 list_route 的区别
+## detail_route 与 list_route 的区别(好像还有点问题)
 
 > Django rest framework 提供的两种自定义ViewSet() 的两种方法
 
